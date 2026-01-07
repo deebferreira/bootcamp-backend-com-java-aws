@@ -10,5 +10,8 @@ O objetivo é acompanhar minha evolução no aprendizado de Java, lógica de pro
 
 Os exercícios estão organizados por **módulos**, seguindo a estrutura do curso.
 
-### 1️⃣ Introdução
-- [Introdução Sintaxe Básica Java](BootcampBackendJavaeAWS/src/bootcamp/maratona/java/introducao/README.md)
+### 1️⃣ Introdução Java - Conceitos e Fundamentos
+- [Módulo 1 - Fundamentos da Linguagem de Programação Java](BootcampBackendJavaeAWS/src/bootcamp/dio/java/modulo01_fundamentos)
+
+### 2️⃣ Estruturas de Controle em Java
+- [Módulo 2 - Estruturas de Controle em Java](BootcampBackendJavaeAWS/src/bootcamp/dio/java/modulo02_sintaxebasica)
