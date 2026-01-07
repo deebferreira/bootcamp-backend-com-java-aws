@@ -15,3 +15,6 @@ Os exercícios estão organizados por **módulos**, seguindo a estrutura do curs
 
 ### 2️⃣ Estruturas de Controle em Java
 - [Módulo 2 - Estruturas de Controle em Java](BootcampBackendJavaeAWS/src/bootcamp/dio/java/modulo02_sintaxebasica)
+
+### 3️⃣ Classes e Encapsulamentos
+- [Módulo 3 - Classes e Encapsulamentos](BootcampBackendJavaeAWS/src/bootcamp/dio/java/modulo03_poo/classeseencapsulamento)
