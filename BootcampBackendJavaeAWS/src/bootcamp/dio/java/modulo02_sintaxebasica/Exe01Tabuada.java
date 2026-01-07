@@ -1,0 +1,19 @@
+package bootcamp.dio.java.modulo02_sintaxebasica;
+
+import java.util.Scanner;
+
+public class Exe01Tabuada {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.print("Digite um número: ");
+        int numero = scanner.nextInt();
+
+        for (int i = 1; i <= 10; i++) {
+            System.out.println(numero + " x " + i + " = " + (numero * i));
+        }
+
+        scanner.close();
+    }
+}
+

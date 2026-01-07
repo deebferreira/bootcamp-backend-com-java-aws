@@ -1,8 +1,8 @@
-package bootcamp.maratona.java.introducao;
+package bootcamp.dio.java.modulo02_sintaxebasica;
 
 import java.util.Scanner;
 
-public class Modulo02SintaxeBasicaJavaDesafio01 {
+public class Desafio01SintaxeBasica {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String solicitacao = scanner.nextLine();
